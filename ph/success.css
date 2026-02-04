@@ -57,6 +57,12 @@ body {
   margin-bottom: 0.5rem;
 }
 
+.card h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 0.3rem;
+}
+  
 .card p {
   color: #555;
   margin-bottom: 0.8rem;
@@ -92,3 +98,4 @@ body {
   from { opacity: 0; transform: translateY(20px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
